@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "DZ Future AI",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "DZ Future AI",
+  "start_url": "/Dz-future-ai/",
+  "theme_color": "#4c1d95",
+  "icons": [
+    {
+      "src": "https://alichrifsifeddine-oss.github.io/Dz-future-ai/logo.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "/Dz-future-ai/",
+  "description": "مساعد ذكاء اصطناعي جزائري للدراسة والتعلم",
+  "lang": "ar"
+}
